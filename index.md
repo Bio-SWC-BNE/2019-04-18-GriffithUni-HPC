@@ -171,7 +171,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h3>Lesson Details: High Performance Computing </h3>
 <p></p>
-<p>Lessons online : <a href="http://swcarpentry.github.io/r-novice-gapminder/">http://swcarpentry.github.io/r-novice-gapminder/</a></p>
+<p>Lessons online : <a href="https://amandamiotto.github.io/INTRO_HPC/">https://amandamiotto.github.io/INTRO_HPC/</a></p>
 <p>Data to download: <a href="https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv">https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv</a></p>
 <p>We are going to download this directly into RStudio if possible however if you need to download to your computer, use the following...</p>
  <br/> 
