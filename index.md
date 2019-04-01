@@ -165,43 +165,46 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <hr/>
 
 
-
-
-<hr/>
-
 <h3>Lesson Details: High Performance Computing </h3>
-<p></p>
-<p>Lessons online : <a href="https://amandamiotto.github.io/INTRO_HPC/">https://amandamiotto.github.io/INTRO_HPC/</a></p>
-<p>Data to download: <a href="https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv">https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv</a></p>
-<p>We are going to download this directly into RStudio if possible however if you need to download to your computer, use the following...</p>
- <br/> 
-<p>Please unzip after downloading. If you are in Mac or Linux, you can use the following commands:</p>
-<p></p>
-<p>Windows: you can download it and move it to the folder you plan on working in, then unzip it by right clicking</p>
-<p></p>
-<p>Mac:</p>
-<p>curl -O https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv</p>
-<p></p>
-<p>Linux:</p>
-<p>wget https://raw.githubusercontent.com/resbaz/r-novice-gapminder-files/master/data/gapminder-FiveYearData.csv</p>
-<br/>
-<br/>
-  <p>
+## HPC Access
 
-{% comment %}
-  SETUP
+You will need to have an HPC user account before the workshop begins.  
 
-  Delete irrelevant sections from the setup instructions.  Each
-  section is inside a 'div' without any classes to make the beginning
-  and end easier to find.
+For those looking to use the QRISCloud HPC Awoonga, you [can sign up here](https://rcc.uq.edu.au/awoonga). Please ensure you have registered for your account **ATLEAST 3 DAYS PRIOR** to the commencement of the workshop.
 
-  This is the other place where people frequently make mistakes, so
-  please preview your site before committing, and make sure to run
-  'tools/check' as well.
-{% endcomment %}
+## Example Files
 
-<h2 id="setup">Setup</h2>
+You will find the example [files used in this tutorial here.](https://github.com/amandamiotto/INTRO_HPC/raw/gh-pages/files/hpcCarpentry.zip)
 
-<p>
-  Please ensure you have set up your computer as per <a href='https://amandamiotto.github.io/INTRO_HPC/setup/'> the setup page. </a>
-  For this workshop, you will need an account on the HPC Awoonga - please ensure you sign up 3 days prior to the workshop.
+
+## SSH
+
+In order to connect to a remote computer, such as an HPC cluster.  Students will need an 'SSH' client on their computer;
+check for your operating system below for instructions to download an SSH Client of your own.
+
+**Windows**
+
+Install [PuTTY Client](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html), ensure you pick the appropriate 32 or 64 bit edition.
+
+**macOS**
+
+OSx comes pre-isntalled with an SSH Client, access it via your terminal.
+
+**Linux**
+
+Linux OS comes pre-isntalled with an SSH Client, access it via your terminal.
+
+## STFP
+
+GUI tools to make transferring files easier.
+
+**All OS**
+
+[WinSCP](https://winscp.net/eng/download.php) is a Graphical Program used to transfer files between your computer and a remote HPC setup.
+WinSCP can be used on Windows 7 and Windows 10.
+
+If you are on a MacOS- [Cyberduck](https://cyberduck.io/) can be used as well.
+
+You can also use Filezilla however it does come with lots of bloatware. 
+
+
