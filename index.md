@@ -165,9 +165,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <hr/>
 
 
-# Lesson Details: High Performance Computing 
+# Workshop Details: High Performance Computing 
 
-All lessons [can be found here](https://amandamiotto.github.io/INTRO_HPC/) 
+## Lessons
+#### All lessons for the day [can be found here](https://amandamiotto.github.io/INTRO_HPC/) 
 
 ## Prior Experience
 
