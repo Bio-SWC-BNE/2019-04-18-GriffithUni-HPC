@@ -20,6 +20,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
+<iframe width="800px" height= "600px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=q8h8Wtykm0-_YGZxQEmtYjt6yGNR6PVAmTt33Ic64w5UQzdUNDY5QklOWjJMU1BTM1FXSUxPMk1TTS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+
 {% comment %}
   HEADER
 
