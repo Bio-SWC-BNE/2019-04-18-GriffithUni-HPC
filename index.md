@@ -165,15 +165,21 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <hr/>
 
 
-#Lesson Details: High Performance Computing 
+# Lesson Details: High Performance Computing 
 
 All lessons [can be found here](https://amandamiotto.github.io/INTRO_HPC/) 
+
+## Prior Experience
+
+This workshop will be done entirely on the console using Bash. If you are not familiar with Bash, there is an [introductory session as part of our Python workshop](https://bio-swc-bne.github.io/2019-04-15-GriffithUni-Python/) on Monday at Nathan campus. You are welcome to come along to the Bash segment and skip the Python/Git if you like. If you cannot make that, please log into Lynda.com through the State Library of Queensland and [complete this course](https://www.lynda.com/Linux-tutorials/Learning-Linux-Command-Line/753913-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3alinux+commands%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
+
+You will need a basic understanding of the bash/linux terminal for this workshop.
 
 ## HPC Access
 
 You will need to have an HPC user account before the workshop begins.  
 
-For those looking to use the QRISCloud HPC Awoonga, you [can sign up here](https://rcc.uq.edu.au/awoonga). Please ensure you have registered for your account **ATLEAST 3 DAYS PRIOR** to the commencement of the workshop.
+Please create an account (if you don't already have one) on QRISCloud HPC Awoonga, you [can sign up here](https://rcc.uq.edu.au/awoonga). Please ensure you have registered for your account **ATLEAST 3 DAYS PRIOR** to the commencement of the workshop. It will be free for any Griffith University or QCIF member.
 
 ## Example Files
 
